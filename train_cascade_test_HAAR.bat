@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data C:\opencv\classifier\face_p500_n500_haar -vec my_face_HAAR.vec -bg Negative.txt -numStages 14 -miniHitRate 0.999 -maxFalseAlarmRate 0.5 -numPos 450 -numNeg 500 -w 24 -h 24 -mode ALL -featureType HAAR -precalcValBufSize 512 -precalcIdxBufSize 512

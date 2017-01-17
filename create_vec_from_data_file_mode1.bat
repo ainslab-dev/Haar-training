@@ -1,0 +1,1 @@
+opencv_createsamples.exe -img face.jpg -vec my_face_HAAR.vec -num 500 -w 24 -h 24 PAUSE

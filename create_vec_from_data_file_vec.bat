@@ -1,0 +1,1 @@
+opencv_createsamples.exe -info info.txt -vec cup.vec -w 24 -h 24 PAUSE

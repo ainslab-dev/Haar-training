@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (bg.txt) do echo.C:\opencv\negative\%%j >> Negative.txt

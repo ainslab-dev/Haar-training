@@ -1,0 +1,40 @@
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\ResolveAssemblyReference.cache
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.Form1.resources
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.Properties.Resources.resources
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.csproj.GenerateResource.Cache
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.exe
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.pdb
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.Blob.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.Extensions.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.MachineLearning.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\PresentationCore.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.exe
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.pdb
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.exe.config
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharpExtern.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\cv200.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\cvaux200.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\cxcore200.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\highgui200.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\ml200.dll
+E:\HaarTraining\zzTools\PositiveBuilder\PositiveBuilder\PositiveBuilder\bin\Debug\opencv_ffmpeg200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.exe.config
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.exe
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.pdb
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\cv200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\cvaux200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\cxcore200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\highgui200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\ml200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\OpenCvSharpExtern.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\opencv_ffmpeg200.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.exe
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\PositiveBuilder.pdb
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\bin\Debug\PresentationCore.dll
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.Form1.resources
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.Properties.Resources.resources
+C:\HaarTraining\zzTools\Positive Builder\PositiveBuilder\PositiveBuilder\obj\Debug\PositiveBuilder.csproj.GenerateResource.Cache

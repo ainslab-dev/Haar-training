@@ -1,0 +1,37 @@
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.exe.config
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.exe
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.pdb
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cv200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cvaux200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cxcore200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\highgui200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\ml200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\opencv_ffmpeg200.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.exe
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.pdb
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PresentationCore.dll
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.Form1.resources
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.Properties.Resources.resources
+C:\Users\shehan\Desktop\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.csproj.GenerateResource.Cache
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.exe.config
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.exe
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.pdb
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cv200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cvaux200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\cxcore200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\highgui200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\ml200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\OpenCvSharpExtern.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\opencv_ffmpeg200.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.exe
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.pdb
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PresentationCore.dll
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\ResolveAssemblyReference.cache
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.Form1.resources
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.Properties.Resources.resources
+E:\SHEHAN\SLIIT\Fourth year 1 semester\Project\HAARTRAINING stuff\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.csproj.GenerateResource.Cache
+C:\opencv\Haartraining Stuff\STEPS\step 01\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\bin\Debug\PositiveBuilder.exe.config
+C:\opencv\Haartraining Stuff\STEPS\step 01\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.exe
+C:\opencv\Haartraining Stuff\STEPS\step 01\opencv-haar-cascade-positive-image-builder\opencv-haar-cascade-positive-image-builder\PositiveBuilder\obj\Debug\PositiveBuilder.pdb

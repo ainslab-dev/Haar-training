@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data C:\opencv\classifier\face_p500_n500_LBP -vec my_face_LBP.vec -bg Negative.txt -numStages 14 -miniHitRate 0.999 -maxFalseAlarmRate 0.5 -numPos 450 -numNeg 500 -w 24 -h 24 -mode ALL -featureType LBP -precalcValBufSize 512 -precalcIdxBufSize 512

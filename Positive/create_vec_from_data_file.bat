@@ -1,0 +1,1 @@
+C:\opencv\opencv\build\x64\vc14\bin\opencv_createsamples.exe -info PositiveNew.txt -vec Samples.vec -num 20 -w 24 -h 24 PAUSE

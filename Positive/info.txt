@@ -1,0 +1,5 @@
+rawdata/hanyang.bmp 1 2 6 54 45
+rawdata/hanyang2.bmp 1 11 19 188 178
+rawdata/hanyang3.bmp 1 12 2 269 263
+rawdata/hanyang4.bmp 1 8 10 87 78
+rawdata/hanyang5.bmp 1 7 11 197 191
