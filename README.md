@@ -1,2 +1,5 @@
-# OpenCV_object_training_detection
-# OpenCV_object_training_detection
+# OpenCV (Haar-training)
+
+Vec file : Positive image set
+
+
